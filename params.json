@@ -1,0 +1,6 @@
+{
+  "name": "Jsoncreate",
+  "tagline": "Create Json interactively with forms and cool designs",
+  "body": "jsonCreate Tool V 0.0.2\r\n===========\r\nThis is a json Create Tool based on following framework\r\n(https://raw.github.com/jdorn/json-editor/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
